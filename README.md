@@ -11,6 +11,4 @@
 ## Score
 ![gallow](./images/2.png)
 
-## Beurten
-* ik raad een w
-* ik raad een y (niet goed)
+request e
