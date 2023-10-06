@@ -17,4 +17,5 @@
 * request B (GOED)
 * request O (GOED)
 * request r (GOED)
+* ik gok brood
 * ik surrender
