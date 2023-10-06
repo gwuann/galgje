@@ -12,3 +12,4 @@
 ![gallow](./images/2.png)
 
 request e (FOUT)
+request B
