@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|B| |O|O| |
+|B|R|O|O| |
 
 |-|-|-|-|-|
 
@@ -11,12 +11,10 @@
 ## Score
 ![gallow](./images/2.png)
 
-<<<<<<< HEAD
-request e (FOUT)
-request B
-request O
+
 =======
 * request e (FOUT)
 * request B (GOED)
 * request O (GOED)
-* request r 
+* request r (GOED)
+* ik surrender
