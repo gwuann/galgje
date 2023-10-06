@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | | |
+|B| | | | |
 
 |-|-|-|-|-|
 
@@ -11,6 +11,11 @@
 ## Score
 ![gallow](./images/2.png)
 
+<<<<<<< HEAD
 request e (FOUT)
 request B
 request O
+=======
+* request e (FOUT)
+* request B (GOED)
+* request O
