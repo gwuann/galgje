@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|B|R|O|O| |
+|B|R|O|O|D|
 
 |-|-|-|-|-|
 
@@ -17,5 +17,4 @@
 * request B (GOED)
 * request O (GOED)
 * request r (GOED)
-* ik gok brood
-* ik surrender
+* ik gok brood (GOED JE HEBT GEWONNEN)
