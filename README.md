@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|B| | | | |
+|B| |O|O| |
 
 |-|-|-|-|-|
 
@@ -18,4 +18,4 @@ request O
 =======
 * request e (FOUT)
 * request B (GOED)
-* request O
+* request O (GOED)
